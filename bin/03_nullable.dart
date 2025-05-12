@@ -17,4 +17,35 @@ void main() {
   // name = null; 오류 null 허용하지 않음
   String? name2 = 'gil';
   name2 = null;
+
+  String? name3;
+  print(name3);
+
+  int? num =2;
+  num = null;
+  print(num);
+
+  // !(느낌표) : nullable type으로 선언을 했을 때 변수 뒤에 !를 붙여 null인 경우 오류를 발생하되
+  //            변수명이 !를 붙이면, Non-nullable의 타입
+  String? name4 = 'dong';
+  print(name4!);
+
+  name4 = null;
+  print(name4);
+  // print(name4!); // 오류 TypeError
+
+  int? num1;
+  int num2 = 3;
+  // print(num1 + num2); 오류 null 값 허용 타입과 허용하지 않는 타입
+  // print(num1 ?? 5) : num1의 값이 null이면 5로 대체하고, num1에 값이 들어있으면 num1값을 그대로 사용
+  print((num1 ?? 5) + num2);
+  String? name5 = "john";
+  if(name5 != null) {
+    print(name5.isNotEmpty); //true
+  }
+
+  name5 = null;
+  print(name5?.isEmpty); // null
+  print(name5?.isNotEmpty); // null
+
 }
