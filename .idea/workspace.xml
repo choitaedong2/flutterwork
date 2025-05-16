@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a41d28a-f38a-4405-8b10-e6c3cf721b2a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/flutterwork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dart/basic_dart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/.idea/flutter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter01_widget/lib/main01_basic.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter01_widget/lib/main02_scofold.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter01_widget/lib/main03_exam.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter01_widget/lib/main04_align.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter01_widget/lib/main05_style.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter01_widget/lib/main06_appBar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter01_widget/lib/main07_layout.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter01_widget/lib/main08_fiexble.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter01_widget/lib/main09_fuexble_ex.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/app/src/main/kotlin/com/example/flutter01_widget/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/android/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/assets/images/ex.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/assets/user1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/assets/user2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/assets/user3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/assets/user4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/lib/main01_coustomWidget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/lib/main02_listView.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/lib/main03.listView_builder.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter02_custon_widget/windows/runner/win32_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter04_permission/assets/user1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter04_permission/assets/user2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter04_permission/assets/user3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter/flutter04_permission/assets/user4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_dart.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/01_print.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/02_type_dynamic.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/03_nullable.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/04_final_const.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/05_operator.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/06_comparison.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/07_list.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/08_map.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/09_set.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/10_enum.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/11_function.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/12_func_namedParameter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/13_typedef.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/14_class.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/15_constructor.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/16_named_constructor.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/17_const_constructor.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/18_const_constructor.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/19_getter_setter.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/20_private.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/21_inheritance.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/22_static.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/23_interface.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/24_generic.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/25_ListSetMap변환.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/26_map함수.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/27_where함수.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/28_fold함수.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/29_cascading.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/30_total.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/31_Future.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/32_asyne_await.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/33_Stream.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/34_StreamFunc.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/35_가위바위보게임.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter/flutter01_widget/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter/flutter01_widget/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter/flutter01_widget/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter/flutter01_widget/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter/flutter01_widget/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\TJ\.android\avd\Pixel_4.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/flutter/flutter04_permission/android">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2x7cg0SvlfUhhKx0qv4q4tEFHn1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.dart (1).executor": "Run",
+    "Flutter.main.dart.executor": "Run",
+    "Flutter.main01_setState.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/TJ/tdchoi/flutterwork/flutter",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TJ\tdchoi\flutterwork\flutter\flutter04_permission" />
+      <recent name="C:\Users\TJ\tdchoi\flutterwork\flutter\flutter03_state\assets" />
+      <recent name="C:\Users\TJ\tdchoi\flutterwork\flutter\flutter03_test\asset" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TJ\tdchoi\flutterwork\flutter\flutter03_state\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.android.app">
+    <configuration name="android.app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/flutter/flutter04_permission/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a41d28a-f38a-4405-8b10-e6c3cf721b2a" name="Changes" comment="" />
+      <created>1747292659534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747292659534</updated>
+    </task>
+    <servers />
+  </component>
+</project>
