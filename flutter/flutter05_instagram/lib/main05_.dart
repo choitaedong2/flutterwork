@@ -1,10 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter05_instagram/style.dart';
-import 'package:http/http.dart' as http;
-import 'dart:async';
-import 'dart:convert';
-import 'package:flutter/rendering.dart';
-import 'package:image_picker/image_picker.dart';
 /*
   * 탭 만들기
     순서
@@ -31,21 +26,6 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   // state 변수
   var tab = 0;
-
-  @override
-  void initState() {
-    super.initState();
-    getData();
-  }
-
-  getData() async {
-    var result = http.get(Uri.parse('https://jioneproferssor.store/flutter/data/data.json'));
-    print(result);
-
-    // json을 List로 변환 [{}, {}, {}]
-    var feedItems = jsonDecode(result.body);
-    // print(feedItems[0]['likes']);
-  }
 
   @override
   Widget build(BuildContext context) {

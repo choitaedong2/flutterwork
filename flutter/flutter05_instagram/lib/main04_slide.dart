@@ -1,10 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter05_instagram/style.dart';
-import 'package:http/http.dart' as http;
-import 'dart:async';
-import 'dart:convert';
-import 'package:flutter/rendering.dart';
-import 'package:image_picker/image_picker.dart';
 /*
   * 탭 만들기
     순서
@@ -33,21 +28,6 @@ class _MyAppState extends State<MyApp> {
   var tab = 0;
 
   @override
-  void initState() {
-    super.initState();
-    getData();
-  }
-
-  getData() async {
-    var result = http.get(Uri.parse('https://jioneproferssor.store/flutter/data/data.json'));
-    print(result);
-
-    // json을 List로 변환 [{}, {}, {}]
-    var feedItems = jsonDecode(result.body);
-    // print(feedItems[0]['likes']);
-  }
-
-  @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
@@ -59,19 +39,13 @@ class _MyAppState extends State<MyApp> {
               icon: Icon(Icons.add_box_outlined))
         ],
       ),
-      body: Column(
-        children: [
-          custom_widget(),
-          custom_widget(),
-          custom_widget()
-        ],
-      ),
-
+      body: [Text('Home Page'), Text('Shop Page')][tab],
       bottomNavigationBar: BottomNavigationBar(
           showSelectedLabels: false,
           showUnselectedLabels: false,
           onTap: (i) {
             setState(() {
+              print(i);
               tab = i;
             });
           },
@@ -85,30 +59,3 @@ class _MyAppState extends State<MyApp> {
 }
 
 // custom widget으로 만들기
-class custom_widget extends StatelessWidget {
-  const custom_widget({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return
-      Column(
-      children: [
-        Image.asset(
-          'assets/user1.png',
-          width: 300,
-          height: 250,
-          fit: BoxFit.cover,
-        ),
-        Container(
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Text("좋아요", textAlign: TextAlign.left),
-              Text("구독")
-            ],
-          )
-        ),
-      ],
-    );
-  }
-}
